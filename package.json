@@ -1,0 +1,26 @@
+{
+  "name": "bot-eraspace-discount-checker",
+  "version": "1.0.0",
+  "description": "Bot untuk mengecek produk diskon di Eraspace berdasarkan lokasi dan ketersediaan stock di toko terdekat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "eraspace",
+    "discount",
+    "stock-checker",
+    "bot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "figlet": "^1.9.3",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.1"
+  }
+}
