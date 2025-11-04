@@ -32,6 +32,22 @@ Atau kunjungi: [https://botnesia.com](https://botnesia.com)
 
 > API Key akan otomatis diminta saat pertama kali menjalankan bot dan disimpan di file `apikey.txt`
 
+## ⚠️ Penting - Pembatasan IP Address
+
+**Bot ini hanya support 1 IP Address per API Key:**
+- ✅ Satu API Key hanya bisa digunakan di 1 device/IP
+- ❌ Tidak support multi-device atau multi-IP
+- 🔄 Jika pindah device atau IP berubah, **wajib reset IP** di dashboard Botnesia
+
+### Cara Reset IP:
+1. Login ke [Botnesia.com](https://botnesia.com)
+2. Masuk ke dashboard API Key
+3. Pilih bot Eraspace yang aktif
+4. Klik tombol **"Reset IP Address"**
+5. Jalankan bot di device/IP baru
+
+> **Note:** Setiap kali IP berubah (ganti WiFi, ganti device, dll), bot akan error. Harus reset IP terlebih dahulu.
+
 ## 🚀 Cara Penggunaan
 
 ### Metode 1: Mode Interaktif
